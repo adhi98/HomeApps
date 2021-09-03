@@ -23,7 +23,7 @@ class NotifikasiTableViewController: UITableViewController {
         
     }
 
-    // MARK: - Table view data source
+    // MARK: - Table View Data Source
 
     
 

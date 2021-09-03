@@ -11,7 +11,6 @@
 		2AAAD32D26CAD39200BE8947 /* ExtCustomTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AAAD32C26CAD39200BE8947 /* ExtCustomTextView.swift */; };
 		2AAAD32F26CAD86600BE8947 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AAAD32E26CAD86600BE8947 /* CustomButton.swift */; };
 		2AAAD33126CADDA300BE8947 /* ExtCustomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AAAD33026CADDA300BE8947 /* ExtCustomViewController.swift */; };
-		2AAAD33526CB87E100BE8947 /* NotifikasiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AAAD33326CB87E100BE8947 /* NotifikasiTableViewController.swift */; };
 		2AAAD33926CB892600BE8947 /* NotifikasiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AAAD33726CB892600BE8947 /* NotifikasiTableViewCell.swift */; };
 		2AAAD33A26CB892600BE8947 /* NotifikasiTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2AAAD33826CB892600BE8947 /* NotifikasiTableViewCell.xib */; };
 		2AAAD33C26CB97B600BE8947 /* NotifikasiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AAAD33B26CB97B500BE8947 /* NotifikasiModel.swift */; };
@@ -26,6 +25,7 @@
 		2AE56E2726CA4D940060F19D /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE56E2626CA4D940060F19D /* HomeViewController.swift */; };
 		2AE56E2926CA52CA0060F19D /* CustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE56E2826CA52CA0060F19D /* CustomView.swift */; };
 		2AE56E2C26CA54A50060F19D /* ExtCustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AE56E2B26CA54A50060F19D /* ExtCustomView.swift */; };
+		2AFF24F026DF7D7100533832 /* NotifikasiTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AAAD33326CB87E100BE8947 /* NotifikasiTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -214,8 +214,8 @@
 				2AAAD32B26CAD21A00BE8947 /* SaranViewController.swift in Sources */,
 				2AAAD32F26CAD86600BE8947 /* CustomButton.swift in Sources */,
 				2AE56E1426CA3B240060F19D /* ViewController.swift in Sources */,
-				2AAAD33526CB87E100BE8947 /* NotifikasiTableViewController.swift in Sources */,
 				2AE56E1026CA3B240060F19D /* AppDelegate.swift in Sources */,
+				2AFF24F026DF7D7100533832 /* NotifikasiTableViewController.swift in Sources */,
 				2AE56E1226CA3B240060F19D /* SceneDelegate.swift in Sources */,
 				2AAAD34326CBC65200BE8947 /* SignInViewController.swift in Sources */,
 				2AE56E2726CA4D940060F19D /* HomeViewController.swift in Sources */,

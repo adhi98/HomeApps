@@ -17,5 +17,9 @@ class HomeViewController: UIViewController {
         profileView.configBorderView()
     }
     
-
+    @IBAction func btnExit(_ sender: UIButton) {
+        let signInVC = self.storyboard?.instantiateViewController(withIdentifier: "SignInViewController") as! SignInViewController
+        self.navigationController?.pushViewController(signInVC, animated: true)
+    }
+    
 }
